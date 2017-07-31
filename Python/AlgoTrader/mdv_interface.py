@@ -7,12 +7,12 @@ Created on Sat Jun  3 22:00:04 2017
 import pandas_datareader.oanda as oanda
 import pandas_datareader.data as web
 import quandl 
-import requests_cache
+#import requests_cache
 import datetime
 
 #import matplotlib.pyplot as plt
 #import datetime as dt
-
+# Mehrzad
 class IMarketData:
    
     def __init__(self,data_source,data_path,API_key=None):
