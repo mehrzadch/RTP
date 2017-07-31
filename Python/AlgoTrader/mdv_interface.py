@@ -12,7 +12,7 @@ import datetime
 
 #import matplotlib.pyplot as plt
 #import datetime as dt
-# Mehrzad
+# Mehrzad Malmirchegini
 class IMarketData:
    
     def __init__(self,data_source,data_path,API_key=None):
